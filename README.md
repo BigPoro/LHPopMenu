@@ -4,12 +4,18 @@
 [Github地址](https://github.com/BigPoro/LHPopMenu)
 
 效果图如下:
+自己调的这个效果，真的是太他么丑了😂😂😂
 
 ![](https://ws3.sinaimg.cn/large/006tNc79ly1fzoqrtyeibg30840eh0u7.gif)
 
-自己调的这个效果，真的是太他么丑了😂😂😂
 
-定制化比较高，很多地方都可以自定义。
+
+自由度比较高，很多地方都可以自定义。
+
+集成方式:
+```
+pod 'LHPopMenu'
+```
 
 使用方法很简单，如下:
 
